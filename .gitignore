@@ -1,0 +1,5 @@
+# bundler
+.bundle
+
+# Twitter credentials
+twitter_credentials.yml

@@ -1,0 +1,13 @@
+{ "statuses": [],
+  "search_metadata":  {
+    "completed_in": 0.083,
+    "max_id": 703169867193520100,
+    "max_id_str": "703169867193520128",
+    "next_results": "?max_id=703025653977845760&q=%23stonesuruguay&include_entities=1",
+    "query": "%23stonesuruguay",
+    "refresh_url": "?since_id=703169867193520128&q=%23stonesuruguay&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

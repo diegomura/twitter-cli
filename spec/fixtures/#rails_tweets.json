@@ -1,0 +1,365 @@
+{ "statuses":
+  [
+    {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Feb 26 17:21:59 +0000 2016",
+      "id": 703268787903008800,
+      "id_str": "703268787903008768",
+      "text": "It's Friday...that means payroll, bills, insurance. I'd rather be #coding #rails!\n\n#startups #dotcomlifestyle #webdeveloper #freelancecoder",
+      "source": "<a href='http://twitter.com' rel='nofollow'>Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 2980356233,
+        "id_str": "2980356233",
+        "name": "John Elder",
+        "screen_name": "flatplanet",
+        "location": "Chicago, IL",
+        "description": "Entrepreneur, Web Developer, Author, Inventor of Planking. I build Interwebs & teach people to code #Rails at http://t.co/laQqHXyav0 | http://t.co/XocWMvM53W",
+        "url": "http://t.co/ugMcwT6uYI",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/ugMcwT6uYI",
+                "expanded_url": "http://www.Codemy.com",
+                "display_url": "Codemy.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/laQqHXyav0",
+                "expanded_url": "http://Codemy.com",
+                "display_url": "Codemy.com",
+                "indices":  [
+                  111,
+                  133
+                ]
+              },
+               {
+                "url": "http://t.co/XocWMvM53W",
+                "expanded_url": "http://JohnElder.org",
+                "display_url": "JohnElder.org",
+                "indices":  [
+                  136,
+                  158
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2264,
+        "friends_count": 3228,
+        "listed_count": 97,
+        "created_at": "Thu Jan 15 20:50:31 +0000 2015",
+        "favourites_count": 61,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 251,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641773031803621376/WMwat0K9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641773031803621376/WMwat0K9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2980356233/1442505461",
+        "profile_link_color": "C13445",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "coding",
+            "indices":  [
+              66,
+              73
+            ]
+          },
+           {
+            "text": "rails",
+            "indices":  [
+              74,
+              80
+            ]
+          },
+           {
+            "text": "startups",
+            "indices":  [
+              83,
+              92
+            ]
+          },
+           {
+            "text": "dotcomlifestyle",
+            "indices":  [
+              93,
+              109
+            ]
+          },
+           {
+            "text": "webdeveloper",
+            "indices":  [
+              110,
+              123
+            ]
+          },
+           {
+            "text": "freelancecoder",
+            "indices":  [
+              124,
+              139
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata":  {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Feb 26 17:06:07 +0000 2016",
+      "id": 703264792799256600,
+      "id_str": "703264792799256577",
+      "text": "#Isola2000 vu par @brissou_p : #isola2000 #isola2000_06 #freestyle #burtonsnowboards #gopro #rails #riding #organic… https://t.co/nKnIVrtyhn",
+      "source": "<a href='http://ifttt.com' rel='nofollow'>IFTTT</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 69973294,
+        "id_str": "69973294",
+        "name": "Isola 2000 / Fan",
+        "screen_name": "isola2000",
+        "location": "Isola 2000",
+        "description": "Unofficial account of Isola 2000 ...",
+        "url": "http://t.co/B7CYhet5zF",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/B7CYhet5zF",
+                "expanded_url": "http://www.isola2000.com",
+                "display_url": "isola2000.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 557,
+        "friends_count": 109,
+        "listed_count": 63,
+        "created_at": "Sat Aug 29 21:58:52 +0000 2009",
+        "favourites_count": 14,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10673,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565907950410428416/Woywm5dh_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565907950410428416/Woywm5dh_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "Isola2000",
+            "indices":  [
+              0,
+              10
+            ]
+          },
+           {
+            "text": "isola2000",
+            "indices":  [
+              31,
+              41
+            ]
+          },
+           {
+            "text": "isola2000_06",
+            "indices":  [
+              42,
+              55
+            ]
+          },
+           {
+            "text": "freestyle",
+            "indices":  [
+              56,
+              66
+            ]
+          },
+           {
+            "text": "burtonsnowboards",
+            "indices":  [
+              67,
+              84
+            ]
+          },
+           {
+            "text": "gopro",
+            "indices":  [
+              85,
+              91
+            ]
+          },
+           {
+            "text": "rails",
+            "indices":  [
+              92,
+              98
+            ]
+          },
+           {
+            "text": "riding",
+            "indices":  [
+              99,
+              106
+            ]
+          },
+           {
+            "text": "organic",
+            "indices":  [
+              107,
+              115
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [],
+        "media":  [
+           {
+            "id": 703264792677650400,
+            "id_str": "703264792677650432",
+            "indices":  [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcJ_mlaXEAAlqdj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcJ_mlaXEAAlqdj.jpg",
+            "url": "https://t.co/nKnIVrtyhn",
+            "display_url": "pic.twitter.com/nKnIVrtyhn",
+            "expanded_url": "http://twitter.com/isola2000/status/703264792799256577/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "medium":  {
+                "w": 1024,
+                "h": 767,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 1024,
+                "h": 767,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small":  {
+                "w": 680,
+                "h": 509,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.083,
+    "max_id": 703169867193520100,
+    "max_id_str": "703169867193520128",
+    "next_results": "?max_id=703025653977845760&q=%23stonesuruguay&include_entities=1",
+    "query": "%23stonesuruguay",
+    "refresh_url": "?since_id=703169867193520128&q=%23stonesuruguay&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

@@ -1,0 +1,50 @@
+[
+  { "trends":
+    [
+      { "name": "#الهلال_باختاكور",
+        "url": "http://twitter.com/search?q=%23%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84_%D8%A8%D8%A7%D8%AE%D8%AA%D8%A7%D9%83%D9%88%D8%B1",
+        "promoted_content": null,
+        "query": "%23%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84_%D8%A8%D8%A7%D8%AE%D8%AA%D8%A7%D9%83%D9%88%D8%B1",
+        "tweet_volume": 128445
+      },
+      { "name": "#فتاه_تغتصب_شاب",
+        "url": "http://twitter.com/search?q=%23%D9%81%D8%AA%D8%A7%D9%87_%D8%AA%D8%BA%D8%AA%D8%B5%D8%A8_%D8%B4%D8%A7%D8%A8",
+        "promoted_content": null,
+        "query": "%23%D9%81%D8%AA%D8%A7%D9%87_%D8%AA%D8%BA%D8%AA%D8%B5%D8%A8_%D8%B4%D8%A7%D8%A8",
+        "tweet_volume": null
+      },
+      { "name": "#indvsban",
+        "url": "http://twitter.com/search?q=%23indvsban",
+        "promoted_content": null,
+        "query": "%23indvsban",
+        "tweet_volume": 20562
+      },
+      { "name": "#RolaNoRaboDasFeministas",
+        "url": "http://twitter.com/search?q=%23RolaNoRaboDasFeministas",
+        "promoted_content": null,
+        "query": "%23RolaNoRaboDasFeministas",
+        "tweet_volume": 13870
+        },
+      { "name": "#FelizMiercoles",
+        "url": "http://twitter.com/search?q=%23FelizMiercoles",
+        "promoted_content": null,
+        "query": "%23FelizMiercoles",
+        "tweet_volume": 34254
+      },
+      { "name": "Uncharted 4",
+        "url": "http://twitter.com/search?q=%22Uncharted+4%22",
+        "promoted_content": null,
+        "query": "%22Uncharted+4%22",
+        "tweet_volume": 13014
+      }
+    ],
+    "as_of": "2016-02-26T14:30:34Z",
+    "created_at": "2016-02-26T14:25:23Z",
+    "locations":  [
+       {
+        "name": "Worldwide",
+        "woeid": 1
+      }
+    ]
+  }
+]
