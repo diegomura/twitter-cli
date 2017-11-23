@@ -1,4 +1,4 @@
-#ruby-twitter-client
+# ruby-twitter-client
 
 > Simple client for retrieving Twitter data in your terminal.
 
@@ -8,7 +8,7 @@ Install required dependencies by running
 
 ```bundle install```
 
-##Usage
+## Usage
 
 ruby-twitter-client comes with a built-in CLI to get and show your Twitter data:
 
@@ -51,7 +51,7 @@ access_token_secret: UnhR...
 ```ruby -I lib bin/twitter_client -r "Buenos Aires"```
 
 
-##Contributing to ruby-twitter-client
+## Contributing to ruby-twitter-client
 
 * Check out the latest master to make sure the feature hasn't been implemented
 or the bug hasn't been fixed yet.
@@ -66,7 +66,7 @@ future version unintentionally.
 have your own version, or is otherwise necessary, that is fine, but please
 isolate to its own commit so I can cherry-pick around it.
 
-##Copyright
+## Copyright
 
-Copyright (c) 2016 Diego Muracciole. See LICENSE.txt for
+Copyright (c) 2017 Diego Muracciole. See LICENSE.txt for
 further details.
